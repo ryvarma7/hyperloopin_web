@@ -1,0 +1,11 @@
+<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="news2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#06b6d4;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#10b981;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#news2)"/>
+  <text x="600" y="300" text-anchor="middle" font-family="system-ui" font-size="40" font-weight="600" fill="white">Prototype Reveal</text>
+  <text x="600" y="350" text-anchor="middle" font-family="system-ui" font-size="18" fill="rgba(255,255,255,0.7)">News Featured Image</text>
+</svg>
